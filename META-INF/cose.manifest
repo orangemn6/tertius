@@ -1,0 +1,52 @@
+Manifest-Version: 1.0
+
+Name: script.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: BDM0Qq5MLzTdgxKDG34V4IDhiR8=
+SHA256-Digest: LehYwseLwdV4kjbhOU6w9IRxWh04gsuP2r5ln43jMSQ=
+
+Name: manifest.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: TIRU87feYNgoiwKMhTBn3AgKJFs=
+SHA256-Digest: 8GEFIydnODn8Q2jFKszCGkFujmXnECzDD6qtIq4D3zs=
+
+Name: style.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: CDJe4P8687MJHzH05Guu0+SDAg4=
+SHA256-Digest: 9zW4YSvFCw7HX6I6vBiJ7DBPRSFgp/eqGLV6b7gQitI=
+
+Name: startpage.html
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VqlJr0aDOGoHLGyXkONFQCpv5+g=
+SHA256-Digest: 4UQZb3OBPz6d2O/8n+sBGunKiDVdegPJJGJfgmDY17M=
+
+Name: ico/light.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: QQcyOCD/bAOVG4RisPn2a0pqrnU=
+SHA256-Digest: 6DWKUtCVRJzxTM9w9yEC9S3+ITEyL0piqF16bsFnztY=
+
+Name: ico/dark.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: g5U2LUT/PTqEeHQ3WYvfyISn60o=
+SHA256-Digest: I10nw2T4YTaW80KxTE7eesjhe5loRwcfJhNRojgJNsg=
+
+Name: icons/goog.svg
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: dCTkVub6ZM1O3xvZ3q2b/8cb9HI=
+SHA256-Digest: tlJDOcJ1oogh6lEBhsoIpHJ0mKmXJIy0A4Ee1XuwkY0=
+
+Name: icons/reddit.svg
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 0nSsw2Ltsb7x1EKig0ztQPgpNP4=
+SHA256-Digest: 3oOow4aCw/z1Ch//Jm7XzbEZHSkMMJrrfhQp94sh7W0=
+
+Name: icons/ddg.svg
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: HnR0Fqf2gLnSQOngjfrQOqvjpTk=
+SHA256-Digest: zP9cov2ikR8uzNw4ULcDFOV0AAt7jRwF+s02Mq+iY1o=
+
+Name: icons/youtube.svg
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: /RRW4+M0zxIrkfHy2ZU0+QpEHag=
+SHA256-Digest: Eyx1HUiSXA2X+n3bA75qxOJxOgdPzxhAsE85DrH8yxI=
+
