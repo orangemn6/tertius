@@ -32,4 +32,4 @@ Load new_tab-1.0.0-an+fx.xpi as an extension in firefox
 ## License
 
 
-This is licensed under the [GNU General Public License, version 3.0](http://www.gnu.org/licenses/gpl-3.0.html) by orangemn6 (And now, Pythone)
+This is licensed under the [GNU General Public License, version 3.0](http://www.gnu.org/licenses/gpl-3.0.html) by orangemn6 (Links changed by Pythone)
